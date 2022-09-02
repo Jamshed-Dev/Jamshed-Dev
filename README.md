@@ -1,16 +1,52 @@
-### Hi there 👋
+### Hi there 👋, I'm Md Jamshed Alam
+#### WordPress design and development
+![WordPress design and development](https://media-exp1.licdn.com/dms/image/C5616AQHZhG7DUnzH0w/profile-displaybackgroundimage-shrink_350_1400/0/1646500632371?e=1667433600&v=beta&t=YmE1vPHKjTAfz9gYQd9agaWNe5HNvOEJ6ogyPxQy2pA)
 
-<!--
-**Jamshed-Dev/Jamshed-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+➥ I’m Md Jamshed Alam. Web, WordPress & WooCommerce/ Email Marketing Expert & Digital marketer/ Dropship & eCommerce Expert 
 
-Here are some ideas to get you started:
+➥ As freelancer Completed 90+ Projects of 20 country's various marketplaces since 2019
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+➥ Web Developer @Upwork , fiverr, People Per Hour
+
+➥ Write continuously great freelancing/fiverr/upwork /web /wordpress/ lead blogs for the students (www.developerjamshed.com)
+
+Expertise / Skill Sets 
+---------------------
+- WordPress & WooCommerce Expert
+- eCommerce
+- Bootstrap coded responsive PSD to HTML/Bootstrap
+- Custom Javascript designed custom plugin
+- Jquery Plugin integration
+- PSD TO HTML/ HTML TO WordPress
+- Mailer Lite/Mailchimp/ Aweber/ Get Response Email Platform Expert
+- HTML, CSS. BOOTSTRAP, JAVASCRIPT, JQUERY, WordPress Bug/ Error Fixing.
+- Digital Marketing & Social Media Marketer(SMM)
+- Google ads, Facebook ads, ecommerce marketing & Search Engine Marketing(SEM) Expert
+- Lead Generation Expert & Finding business email and contact details
+- Search Engine Optimisation (SEO), On page SEO & Off page SEO Expert
+- Website Maintenance & Website Optimization
+- Website speed increase & SEO
+- Email Marketing & eCommerce Automation
+- Virtual Assistant/ Web Researcher/ Data Entry Expert
+
+Contact Me 
+---------------------
+➥ email: hello@developerjamshed.com
+➥ Phone: 8801792090113 (WhatsApp) 
+➥ Website: https://developerjamshed.com
+
+Skills: PHP / REACT / JS / CSS / JQUERY / JQUERY / WORDPRESS
+
+- 🔭 I’m currently working on Projonmo IT 
+- 🌱 I’m currently learning SEO 
+- 👯 I’m looking to collaborate on github 
+- 💬 Ask me about WordPress 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jamshed-Dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/jamsheddev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jamshed-dev//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Jamshed.Dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/j_a_m_s_h_e_d//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Jamshed_Dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://developerjamshed.com)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshed-Dev)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/Jamshed-Dev)  
+
+![Profile views](https://gpvc.arturio.dev/Jamshed-Dev)  
