@@ -33,8 +33,8 @@ Expertise / Skill Sets
 
 Contact Me 
 ---------------------
-➥ email: hello@developerjamshed.com
-➥ Phone: 8801792090113 (WhatsApp) 
+➥ email: hello@developerjamshed.com <br/> 
+➥ Phone: 8801792090113 (WhatsApp) <br/> 
 ➥ Website: https://developerjamshed.com
 
 <br/>  
