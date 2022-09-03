@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Md Jamshed Alam
 #### WordPress design and development
-![WordPress design and development]<div align="center">
+<div align="center">
 <img src="https://media.discordapp.net/attachments/1015517857007800381/1015517921017081866/White__Grey_Modern_Business_Consultant_LinkedIn_Banner.png?width=1080&height=324" align="center" style="width: 100%" />
 </div>  
 
