@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Md Jamshed Alam
 #### WordPress design and development
-![WordPress design and development](https://media-exp1.licdn.com/dms/image/C5616AQHZhG7DUnzH0w/profile-displaybackgroundimage-shrink_350_1400/0/1646500632371?e=1667433600&v=beta&t=YmE1vPHKjTAfz9gYQd9agaWNe5HNvOEJ6ogyPxQy2pA)
+![WordPress design and development](![image](https://user-images.githubusercontent.com/44814725/188260037-af834070-4be4-45c0-8cdb-100fb293c779.png))
 
 ➥ I’m Md Jamshed Alam. Web, WordPress & WooCommerce/ Email Marketing Expert & Digital marketer/ Dropship & eCommerce Expert 
 
