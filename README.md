@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Md Jamshed Alam
 #### WordPress design and development
-![WordPress design and development](![image]([https://user-images.githubusercontent.com/44814725/188260037-af834070-4be4-45c0-8cdb-100fb293c779.png](https://media.discordapp.net/attachments/1015517857007800381/1015517921017081866/White__Grey_Modern_Business_Consultant_LinkedIn_Banner.png?width=1080&height=324])))
+![WordPress design and development]<div align="center">
+<img src="https://media.discordapp.net/attachments/1015517857007800381/1015517921017081866/White__Grey_Modern_Business_Consultant_LinkedIn_Banner.png?width=1080&height=324" align="center" style="width: 100%" />
+</div>  
 
 ➥ I’m Md Jamshed Alam. Web, WordPress & WooCommerce/ Email Marketing Expert & Digital marketer/ Dropship & eCommerce Expert 
 
