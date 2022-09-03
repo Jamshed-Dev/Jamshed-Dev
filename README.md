@@ -109,7 +109,6 @@ Contact Me
 
 
 ## Connect with me  
-<div align="center">
 <a href="https://github.com/jamshed-dev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -128,10 +127,9 @@ Contact Me
 <a href="https://instagram.com/j_a_m_s_h_e_d" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
   
 
-<br/>   
+<br/>    
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshed-Dev)](https://github.com/anuraghazra/github-readme-stats)
 
