@@ -10,7 +10,7 @@
 
 ➥ Web Developer @Upwork , fiverr, People Per Hour
 
-➥ Write continuously great freelancing/fiverr/upwork /web /wordpress/ lead blogs for the students (www.developerjamshed.com)
+➥ Write continuously great freelancing/fiverr/upwork /web /wordpress/ lead blogs for the students (https://jamshed.dev)
 
 Expertise / Skill Sets 
 ---------------------
