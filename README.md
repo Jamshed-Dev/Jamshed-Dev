@@ -35,7 +35,7 @@ Contact Me
 ---------------------
 ➥ email: hello@jamshed.dev <br/> 
 ➥ Phone: 8801792090113 (WhatsApp) <br/> 
-➥ Website: https://jamshed.dev
+➥ Website: https://jamshed.ami.bd
 
 <br/>  
 
