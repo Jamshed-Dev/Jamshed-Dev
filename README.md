@@ -1,138 +1,118 @@
-### Hi there 👋, I'm Md Jamshed Alam
-#### WordPress design and development
-<div align="center">
-<img src="https://media.discordapp.net/attachments/1015517857007800381/1015517921017081866/White__Grey_Modern_Business_Consultant_LinkedIn_Banner.png?width=1080&height=324" align="center" style="width: 100%" />
-</div>  
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Md%20Jamshed%20Alam&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20WordPress%20%E2%80%A2%20Shopify%20%E2%80%A2%20Next.js%20%E2%80%A2%20Reverse%20Engineer&descAlignY=58&descSize=17" width="100%" alt="Md Jamshed Alam" />
+</p>
 
-➥ I’m Md Jamshed Alam. Web, WordPress & WooCommerce/ Email Marketing Expert & Digital marketer/ Dropship & eCommerce Expert 
+<p align="center">
+  <a href="https://jamshed.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=640&lines=Hi+there+%F0%9F%91%8B+I'm+Jamshed;WordPress+%26+WooCommerce+Expert;Shopify+Store+Developer;Next.js+%2B+React+Developer;Reverse+Engineering+Enthusiast;SEO+%26+Digital+Marketing+Pro" alt="Typing SVG" />
+  </a>
+</p>
 
-➥ As freelancer Completed 90+ Projects of 20 country's various marketplaces since 2019
+<p align="center">
+  <a href="https://jamshed.dev"><img src="https://img.shields.io/badge/Website-jamshed.dev-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:hello@jamshed.dev"><img src="https://img.shields.io/badge/Email-hello@jamshed.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Jamshed-Dev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
 
-➥ Web Developer @Upwork , fiverr, People Per Hour
+---
 
-➥ Write continuously great freelancing/fiverr/upwork /web /wordpress/ lead blogs for the students (https://jamshed.dev)
+## 👨‍💻 About Me
 
-Expertise / Skill Sets 
----------------------
-- WordPress & WooCommerce Expert
-- eCommerce
-- Bootstrap coded responsive PSD to HTML/Bootstrap
-- Custom Javascript designed custom plugin
-- Jquery Plugin integration
-- PSD TO HTML/ HTML TO WordPress
-- Mailer Lite/Mailchimp/ Aweber/ Get Response Email Platform Expert
-- HTML, CSS. BOOTSTRAP, JAVASCRIPT, JQUERY, WordPress Bug/ Error Fixing.
-- Digital Marketing & Social Media Marketer(SMM)
-- Google ads, Facebook ads, ecommerce marketing & Search Engine Marketing(SEM) Expert
-- Lead Generation Expert & Finding business email and contact details
-- Search Engine Optimisation (SEO), On page SEO & Off page SEO Expert
-- Website Maintenance & Website Optimization
-- Website speed increase & SEO
-- Email Marketing & eCommerce Automation
-- Virtual Assistant/ Web Researcher/ Data Entry Expert
+```js
+const jamshed = {
+  role:        "Full-Stack Web Developer & Digital Marketer",
+  experience:  "Freelancing since 2019 — 90+ projects for clients in 20+ countries",
+  platforms:   ["Upwork", "Fiverr", "PeoplePerHour"],
+  building:    ["WordPress & WooCommerce", "Shopify stores", "Next.js apps", "Automation tools"],
+  breaking:    ["Reverse engineering", "Binary & web bundle analysis"],
+  growing:     ["SEO", "Google & Facebook Ads", "Email marketing", "eCommerce automation"],
+  askMeAbout:  "WordPress, Shopify, Next.js, SEO",
+  funFact:     "I write freelancing & web dev guides for students at jamshed.dev",
+};
+```
 
-Contact Me 
----------------------
-➥ email: hello@jamshed.dev <br/> 
-➥ Phone: 8801792090113 (WhatsApp) <br/> 
-➥ Website: https://jamshed.ami.bd
+- 🔭 Currently working at **Projonmo IT**
+- 🛒 Building high-converting **WordPress / WooCommerce** and **Shopify** stores
+- ⚡ Shipping fast, SEO-friendly apps with **Next.js**
+- 🔍 Digging into software internals with **reverse engineering**
+- 👯 Open to collaborating on interesting projects
 
-<br/>  
+---
 
+## 🛠️ Tech Stack
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress,php,nextjs,react,ts,js,nodejs,html,css,tailwind,bootstrap,jquery&perline=12" alt="Web stack" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,rust,cs,cpp,mysql,git,github,vercel,linux,bash,powershell,vscode&perline=12" alt="Languages and tools" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,aws,gcp,docker,electron,androidstudio&perline=12" alt="Design and cloud" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-111111?style=for-the-badge&logo=ghidra&logoColor=white" alt="Reverse Engineering" />
+  <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="SEO" />
+  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads" />
+  <img src="https://img.shields.io/badge/Meta%20Ads-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads" />
+  <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black" alt="Mailchimp" />
+</p>
 
+---
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-</div>
+## 🚀 Featured Projects
 
-</td><td valign="top" width="33%">
+<p align="center">
+  <a href="https://github.com/Jamshed-Dev/SEO-Product-Description-Generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jamshed-Dev&repo=SEO-Product-Description-Generator&theme=tokyonight&hide_border=true" alt="SEO Product Description Generator" /></a>
+  <a href="https://github.com/Jamshed-Dev/shop-management"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jamshed-Dev&repo=shop-management&theme=tokyonight&hide_border=true" alt="Shop Management" /></a>
+  <a href="https://github.com/Jamshed-Dev/nvidia-ssd-write-fix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jamshed-Dev&repo=nvidia-ssd-write-fix&theme=tokyonight&hide_border=true" alt="NVIDIA SSD Write Fix" /></a>
+  <a href="https://github.com/Jamshed-Dev/DUDE_Music_v2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jamshed-Dev&repo=DUDE_Music_v2&theme=tokyonight&hide_border=true" alt="DUDE Music v2" /></a>
+  <a href="https://github.com/Jamshed-Dev/Product-logo-adder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jamshed-Dev&repo=Product-logo-adder&theme=tokyonight&hide_border=true" alt="Product Logo Adder" /></a>
+  <a href="https://github.com/Jamshed-Dev/Finesse-Glow-Converter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jamshed-Dev&repo=Finesse-Glow-Converter&theme=tokyonight&hide_border=true" alt="Finesse Glow Converter" /></a>
+</p>
 
+---
 
+## 📊 GitHub Stats
 
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jamshed-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshed-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
 
-</td><td valign="top" width="33%">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jamshed-Dev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jamshed-Dev&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph" />
+</p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jamshed-Dev/Jamshed-Dev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jamshed-Dev/Jamshed-Dev/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Jamshed-Dev/Jamshed-Dev/output/github-snake.svg" />
+  </picture>
+</p>
 
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
+---
 
-</td></tr></table>  
+## 🤝 Connect With Me
 
-<br/>  
+<p align="center">
+  <a href="https://linkedin.com/in/jamshed-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/Jamshed_Dev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.facebook.com/Jamshed.Dev"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/j_a_m_s_h_e_d"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://dev.to/jamsheddev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" /></a>
+  <a href="https://wa.me/8801792090113"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+</p>
 
-
-- 🔭 I’m currently working on Projonmo IT 
-- 🌱 I’m currently learning SEO 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about WordPress 
-
-
-<br/>  
-
-
-## Connect with me  
-<a href="https://github.com/jamshed-dev" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Jamshed_Dev" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/jamsheddev" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/jamshed-dev" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/Jamshed.Dev" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/j_a_m_s_h_e_d" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
-
-<br/>    
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshed-Dev)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub metrics](https://metrics.lecoq.io/Jamshed-Dev)  
-
-![Profile views](https://gpvc.arturio.dev/Jamshed-Dev)  
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="" />
+</p>
